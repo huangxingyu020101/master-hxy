@@ -1,3 +1,4 @@
+%所有可能的信号
 function x=a_msg(x)
 x=[0 0 0
 0 0 1
